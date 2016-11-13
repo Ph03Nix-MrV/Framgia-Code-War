@@ -30,4 +30,4 @@ for p in enumerate(P):
 
 FIND ALL ELEMENTS OF ARRAY {key}
 
-HINT: Values of element in range(0,255)
+HINT: Values of element in range(0,256)
