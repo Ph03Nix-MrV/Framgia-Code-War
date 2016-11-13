@@ -26,6 +26,8 @@ C = [307671, 396746, 260206, 330907, 373465, 311678, 360107, 309443, 308155, 377
 Form:
 key=[]
 for p in enumerate(P):
-  C[i] == sum([p[j]*k for j, k in enumerate(key)])
-  
+  C[i] = sum([p[j]*k for j, k in enumerate(key)])
+
 FOUND ALL ELEMENT OF ARRAY {key}
+
+HINT: Values of element in range(0,255)
