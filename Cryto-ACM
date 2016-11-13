@@ -28,4 +28,4 @@ key=[]
 for p in enumerate(P):
   C[i] == sum([p[j]*k for j, k in enumerate(key)])
   
-FOUND ELEMENT OF ARRAY {key}
+FOUND ALL ELEMENT OF ARRAY {key}
